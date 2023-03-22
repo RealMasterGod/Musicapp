@@ -1,0 +1,9 @@
+.main-container{
+    display:flex;
+    flex-wrap:wrap;
+}
+#navig{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
